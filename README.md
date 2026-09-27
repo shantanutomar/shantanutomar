@@ -65,10 +65,6 @@ Currently exploring autonomous research agents, RAG pipelines, and GPU cloud inf
 
 <img src="https://streak-stats.demolab.com?user=shantanutomar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutomar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
-
 </div>
 
 ---
