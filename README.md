@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I'm+Shantanu+%F0%9F%91%8B;Senior+Software+Engineer;Building+AI-powered+products;Multi-agent+systems+%7C+Full-stack+%7C+OSS" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1000&color=6366F1&center=true&vCenter=true&random=false&width=650&lines=Hi%2C+I'm+Shantanu+%F0%9F%91%8B;Senior+Software+Engineer;Building+AI-powered+products;Multi-agent+systems+%7C+Full-stack+%7C+Bun+%2B+TypeScript" alt="Typing SVG" />
 
 <br/>
 
@@ -27,8 +27,10 @@ Currently exploring autonomous research agents, RAG pipelines, and GPU cloud inf
 |---|---|---|
 | [deep-research-agent](https://github.com/shantanutomar/deep-research-agent) | Autonomous research engine — planner + ReAct retriever + critic + synthesizer, streamed live | FastAPI · React · ChromaDB · Tavily |
 | [debate-agent](https://github.com/shantanutomar/debate-agent) | Two AI agents argue opposite sides of any topic; a judge picks the winner | FastAPI · React · OpenAI |
-| [medi-guide](https://github.com/shantanutomar/medi-guide) | Healthcare platform live at [bookmgs.com](https://bookmgs.com) | Bun · React · PostgreSQL |
+| [ai-fine-tune-model](https://github.com/shantanutomar/ai-fine-tune-model) | Full-stack app to fine-tune OpenAI models — data generation, validation, training & deployment pipeline | React · TypeScript · Python · OpenAI |
 | [gpu-paas-mini](https://github.com/shantanutomar/gpu-paas-mini) | Mini GPU PaaS — API key mgmt, model deployment & inference | NestJS · React · Redis · BullMQ |
+| [population-analyzer](https://github.com/shantanutomar/population-analyzer) | Geospatial population analysis — 5M records, PostGIS, Dockerized and deployed on AWS with Terraform | Express · PostgreSQL · PostGIS · Docker · Terraform |
+| [medi-guide](https://github.com/shantanutomar/medi-guide) | Healthcare platform live at [bookmgs.com](https://bookmgs.com) | Bun · React · PostgreSQL |
 | [ai-playground](https://github.com/shantanutomar/ai-playground) | Hands-on demos: embeddings, RAG, chat completion, tokenization | React · OpenAI |
 | [vector-explorer](https://github.com/shantanutomar/vector-explorer) | Visualize vector embeddings and semantic search in 2D space | React · ChromaDB · OpenAI |
 
@@ -39,6 +41,7 @@ Currently exploring autonomous research agents, RAG pipelines, and GPU cloud inf
 <div align="center">
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000000?style=for-the-badge&logo=bun&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -61,6 +64,10 @@ Currently exploring autonomous research agents, RAG pipelines, and GPU cloud inf
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=shantanutomar&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shantanutomar&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" />
 
 </div>
 
