@@ -25,12 +25,13 @@ Currently exploring autonomous research agents, RAG pipelines, and GPU cloud inf
 
 | Project | Description | Stack |
 |---|---|---|
+| [ask-your-data](https://github.com/shantanutomar/ask-your-data) | Bring your own data (CSV, JSON, Excel, pasted text) and ask questions in plain English — a text-to-SQL agent runs read-only queries and streams back an answer, a table and a chart | FastAPI · React · Postgres · Redis |
 | [deep-research-agent](https://github.com/shantanutomar/deep-research-agent) | Autonomous research engine — planner + ReAct retriever + critic + synthesizer, streamed live | FastAPI · React · ChromaDB · Tavily |
 | [debate-agent](https://github.com/shantanutomar/debate-agent) | Two AI agents argue opposite sides of any topic; a judge picks the winner | FastAPI · React · OpenAI |
 | [ai-fine-tune-model](https://github.com/shantanutomar/ai-fine-tune-model) | Full-stack app to fine-tune OpenAI models — data generation, validation, training & deployment pipeline | React · TypeScript · Python · OpenAI |
 | [gpu-paas-mini](https://github.com/shantanutomar/gpu-paas-mini) | Mini GPU PaaS — API key mgmt, model deployment & inference | NestJS · React · Redis · BullMQ |
 | [population-analyzer](https://github.com/shantanutomar/population-analyzer) | Geospatial population analysis — 5M records, PostGIS, Dockerized and deployed on AWS with Terraform | Express · PostgreSQL · PostGIS · Docker · Terraform |
-| [medi-guide](https://github.com/shantanutomar/medi-guide) | Healthcare platform live at [bookmgs.com](https://bookmgs.com) | Bun · React · PostgreSQL |
+| medi-guide | Healthcare platform live at [bookmgs.com](https://bookmgs.com) | Bun · React · PostgreSQL |
 | [ai-playground](https://github.com/shantanutomar/ai-playground) | Hands-on demos: embeddings, RAG, chat completion, tokenization | React · OpenAI |
 | [vector-explorer](https://github.com/shantanutomar/vector-explorer) | Visualize vector embeddings and semantic search in 2D space | React · ChromaDB · OpenAI |
 
